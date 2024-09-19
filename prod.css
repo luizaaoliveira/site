@@ -10,3 +10,6 @@ header{
     color: #f6d6d6; 
     padding: 50px 55px; 
 }
+div {
+  filter: drop-shadow(10px 10px 7px);
+}
